@@ -97,3 +97,27 @@ html[data-bs-theme="dark"] .bg-white-black {
 .no-gap-bottom {
     margin-bottom: -0.75rem !important;
 }
+
+.cgold{
+    color: gold !important;
+}
+
+.fcomic{
+    font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+
+.falata{
+    font-family: "Alata", sans-serif, cursive !important;
+}
+
+.fcandy{
+    font-family: "Emilys Candy", serif, cursive !important;
+}
+
+
+.garis{
+    opacity: 0.6;
+    height: 2px;
+    background-color: beige;
+    width: 70px;
+}
